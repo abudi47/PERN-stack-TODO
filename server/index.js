@@ -74,6 +74,6 @@ app.delete("/todos/:id", async ( req , res ) => {
 })
 
 
-app.listen(5000 , () => {
-    console.log("server is strated on port 5000 ...");
-})
+app.listen(5021 , () => {
+    console.log("server is strated on port 5021 ...");
+})sss
